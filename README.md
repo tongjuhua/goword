@@ -1,2 +1,2 @@
 # goword
-  Go Open Source, Simple and efficient generator pdf
+  Go Open Source, Simple and efficient generator pdf。
